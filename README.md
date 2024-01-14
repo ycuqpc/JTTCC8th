@@ -1,5 +1,10 @@
 Recovering from the pandemic, the international exchange reboots. We hold this workshop in Kanazawa-Hakkei Campus of Yokohama City University on January 19th, 2024. We will have oral presentations by invited speakers form Japan, Thailand and Canada. We look forward to productive discussions.
 
+
+# Registration
+
+TBA
+
 # Program
 
 Friday, January 19th 13:00–17:20, 2024<br>
