@@ -9,7 +9,7 @@ copyright: "© 2024 {author}"
 description: "This is the website for 8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023."
 # favicon: "./favicon.svg"
 night_mode: "manual"
-brand_color: "#8FC231"
+brand_color: "#238DA7"
 
 defaults:
   home:
