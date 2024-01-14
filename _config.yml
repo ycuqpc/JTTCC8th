@@ -47,6 +47,10 @@ translate_langs:
     img: https://cdn.countryflags.com/thumbs/thailand/flag-400.png
     text: Thai
 
+  - lang: id
+    img: https://cdn.countryflags.com/thumbs/indonesia/flag-400.png
+    text: Indonesia
+
   - lang: en
     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
     text: English
