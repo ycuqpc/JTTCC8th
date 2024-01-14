@@ -1,72 +1,52 @@
-Recovering from the pandemic, the international exchange reboots. We hold XX workshop in Kanazawa-Hakkei Campus of Yokohama City University on January XXth, 2024. This event will have both oral and poster presentations by students from Graduate School of Nanobioscience at Yokohama City University (YCU), and _other school names_. We hope the strong interaction between students from various countries.
-
-# Registration
-
-| Date | ToDo |
-| :--- | :--- |
-| January XXth | Deadline for Registration <br> https://forms.office.com/ |
-| January XXth | Deadline for Submission of Titles <br> https://forms.office.com/ |
-
 # Program
 
-Wednesday, January XXth, 2024
+Friday, January 19th 13:00–17:20, 2024<br>
+Room 118, Science Research Building (1F), Yokohama City University
 
-| Start | End   | Speaker | Title |
-| :---: | :---: | :------ | :---- |
-| 13:30 | 13:50 | | **Registration** |
-| 13:50 | 14:00 | | **Opening remarks** by Prof. John Doe |
-| 14:00 | 14:30 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 14:30 | 15:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:00 | 15:20 | | **Coffee Break** |
-| 15:20 | 15:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:40 | 16:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 16:00 | 16:30 | | **Poster Session** (by speakers who have odd no.) |
-| 16:30 | 17:00 | | **Poster Session** (by speakers who have even no.) |
-| 17:00 | 17:20 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:20 | 17:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:40 | 17:50 | | **Closing remarks** by Prof. John Doe |
-| 17:50 | 18:00 | | **Award ceremony** by Prof. John Doe |
-| 18:30 | 21:00 | | **Banquet** at _Ristorante Prima Stella_ |
+### Opening Remarks
 
-# Invited Speakers
+Chair: Seiji Mori (Ibaraki University, Japan)
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:00 | 13:10 | **Opening remarks**<br>by Prof. **Masaru Tachibana** (Yokohama City University, Japan) |
+| 13:10 | 13:20 | **Opening remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+| 13:20 | 13:30 | **Photo Session (10 min.)** |
 
-Meet the invited speakers:
+### Session 1
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+Chair: 	Yusuke Kanematsu (Hiroshima University, Japan)
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:30 | 14:00 | **Siriporn Jungsuttiwong** (Ubon Ratchathani University, Thailand)<br>Advances and Challenges in DFT-based Design of Energy Materials for Climate Change Mitigation |
+| 14:00 | 14:30 | **Manussada Ratanasak** (Hokkaido University, Japan)<br>Elucidating the Chemoselective Transesterification Mechanism of Novel Mg(II) and Na(I) Bisphenoxide Catalysts for Industrial Applications  |
+| 14:30 | 14:50 | **Break (20 min.)** |
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+### Session 2
 
-# Poster Session
+Chair: Yusuke Kanematsu (Hiroshima University, Japan)  
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 14:50 | 15:20 | **Robert Karoly Szilagyi** (The University of British Columbia, Canada)<br>Computational assessment of hydrolysis and condensation reactions as key chemical transformations for the Emergence of Biosphere  |
+| 15:20 | 15:50 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>Unlocking Antiviral Insights: FMO, Docking, MD Illuminate Halogen Interactions in Drug Design  |
+| 15:50 | 16:10 | **Break (20 min.)** |
 
-The presenters with odd numbers will have poster presentations first half, and those with even numbers second half. Each poster board is 90cm x 120cm (width x height).
+### Session 3
 
-| No. | Name | Title |
-| :-- | :--- | :---- |
-|  1 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  2 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  3 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  4 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  5 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  6 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  7 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  8 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  9 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 10 | John Doe | New universality of the nuclear quantum effects in proton science |
+Chair: Robert Karoly Szilagyi (The University of British Columbia, Canada)
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 16:10 | 16:40 | **Rathawat Daengngern** (King Mongkut's Institute of Technology Ladkrabang, Thailand)<br>Theoretical insights into ultrafast excited state proton transfer coupled with twisted intramolecular charge transfer of bifunctional derivatives of pyridine |
+| 16:40 | 17:10 | **Yusuke Kanematsu** (Hiroshima University, Japan)<br>Theoretical analysis of P450nor by using the quantum chemical calculation and database analysis. |
+
+### Closing Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:10 | 17:20 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+| 18:30 |       | Meeting to exchange opinions |
 
 # Access
 
 [Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.591406458434!2d139.5989118!3d35.333358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601843fd143d2285%3A0xa2bfcf87b9aac00d!2sYokohama%20City%20University%20Kanazawa-Hakkei%20Campus!5e0!3m2!1sen!2sjp!4v1704183177009!5m2!1sen!2sjp" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Organizers
-
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-
-## Acknowledgment
-
-This project was supported by the XXX.
