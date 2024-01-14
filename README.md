@@ -6,6 +6,7 @@ Room 118, Science Research Building (1F), Yokohama City University
 ### Opening Remarks
 
 Chair: Seiji Mori (Ibaraki University, Japan)
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 13:00 | 13:10 | **Opening remarks**<br>by Prof. **Masaru Tachibana** (Yokohama City University, Japan) |
@@ -15,6 +16,7 @@ Chair: Seiji Mori (Ibaraki University, Japan)
 ### Session 1
 
 Chair: 	Yusuke Kanematsu (Hiroshima University, Japan)
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 13:30 | 14:00 | **Siriporn Jungsuttiwong** (Ubon Ratchathani University, Thailand)<br>Advances and Challenges in DFT-based Design of Energy Materials for Climate Change Mitigation |
@@ -24,6 +26,7 @@ Chair: 	Yusuke Kanematsu (Hiroshima University, Japan)
 ### Session 2
 
 Chair: Yusuke Kanematsu (Hiroshima University, Japan)  
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 14:50 | 15:20 | **Robert Karoly Szilagyi** (The University of British Columbia, Canada)<br>Computational assessment of hydrolysis and condensation reactions as key chemical transformations for the Emergence of Biosphere  |
@@ -33,6 +36,7 @@ Chair: Yusuke Kanematsu (Hiroshima University, Japan)
 ### Session 3
 
 Chair: Robert Karoly Szilagyi (The University of British Columbia, Canada)
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 16:10 | 16:40 | **Rathawat Daengngern** (King Mongkut's Institute of Technology Ladkrabang, Thailand)<br>Theoretical insights into ultrafast excited state proton transfer coupled with twisted intramolecular charge transfer of bifunctional derivatives of pyridine |
