@@ -3,7 +3,7 @@ Recovering from the pandemic, the international exchange reboots. We hold this w
 
 # Registration
 
-TBA
+Thank you for your applications!
 
 # Program
 
@@ -62,7 +62,7 @@ Chair: Robert Karoly Szilagyi (The University of British Columbia, Canada)
 
 ## Organizers
 
-TBA
+Quantum Physical Chemistry Laboratory, Yokohama City University
 
 ## Acknowledgment
 
