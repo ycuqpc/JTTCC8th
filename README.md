@@ -12,8 +12,6 @@ Room 118, Science Research Building (1F), Yokohama City University
 
 ### Opening Remarks
 
-Chair: Seiji Mori (Ibaraki University, Japan)
-
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 13:00 | 13:10 | **Opening remarks**<br>by Prof. **Masaru Tachibana** (Yokohama City University, Japan) |
