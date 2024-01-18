@@ -20,7 +20,7 @@ Room 118, Science Research Building (1F), Yokohama City University
 
 ### Session 1
 
-Chair: 	Yusuke Kanematsu (Hiroshima University, Japan)
+Chair: Seiji Mori (Ibaraki University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
