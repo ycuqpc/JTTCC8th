@@ -54,6 +54,10 @@ Chair: Robert Karoly Szilagyi (The University of British Columbia, Canada)
 | 17:10 | 17:20 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
 | 18:30 |       | Meeting to exchange opinions |
 
+# Abstract
+
+Please download from [here](https://www-user.yokohama-cu.ac.jp/~tachi/secret/Program_JTTCC2023_IWQC2023.pdf).
+
 # Access
 
 [Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
